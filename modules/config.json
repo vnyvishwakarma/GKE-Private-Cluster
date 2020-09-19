@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "ros-project-287920",
+  "private_key_id": "de36ca97802e6d98c4f76101ddaeea80f1b1d39e",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCPEjZdBu2kV9a+\nZg+XmM/2Hof/dVGiFNAuf2+kJkoaz3mOI3U1bXC8veYYwNXabpTKK8BfTModhUDK\nmTpcsAyQBcIhkr3+nC2Dvm57ZfPnQL4ssyJ3MVzovzUOrdlC36TkmkKIDL5mmIfs\nVITLrGyvPELmwBMCw8bQ314g3O62rC83U8I7f9zWuynZV7inPRoEYK32i0gv0oaL\niLo/fzvhLsNF45BchKmIZira7Kvh7HywaMEDI/6w8uk65fEeDmel+7xf/v4P2Obt\nHWzNLemvlKeDGtKmx8JmfjWBBHY4LuP63iv2WCzk3WzlkHm6eIft347YYnA9djwP\ndUZDwMLlAgMBAAECggEAL/HAegg6VtqAwildjEXPWwD8PiVIh/JFmW9nMDEMoFNq\nvrEvNApKv1U76Iumnp50ChQDUWxgRuhCwCH9JtZwP0tOtQWB2fLoZb/JMl0GETbn\nA/+7ywmlwvFgjFzB8+ESVvFC3mi23Za75fyky8QqX8bn/H/dXw3QcGqKFqUy8c/d\ndQz/u7C3A5k22jVCgytQTxq/Rp3RVhVZWbMzzVmRcKTWpt8leKNlUQal6kYAvCjZ\ngD76Jp0v+47cPRakD4/h90o5UE4/1WmhjE08kpGVaMdHbwNNvg2+yRszkldAUmk6\ngsDxNgq3pCfMyymB7tUuJnbFXBcBgEUp5HY59sYEeQKBgQDA+XwOwGTJD2KTd9DF\niNOphS2N+PXEbNl4Jcnk6cb+rjX6V4Mgj/J7xEY8ekzKAGCiGupvuoKEtnVuAoVL\nzRdOvoyeJAmOFSjcIgxOgpnIHzWLw6EFh59OPgp3aXv5t1t00pJ1/Yeb1QqPl2wk\nSOQNFeOaEuIl6Lw/8sqAH+FqKwKBgQC9zFOH1Lc4MJ/3cJAOga49/v0+g8LKATvg\nvQXZvAw6ALSsKpK9/k+S9oEooDktRfvIktSGO3d1ojGreo2If8FL4Dpmf5JPFqtk\nRPAkwFSsY3xpDOm32C0JX+P8mXJmtaKVLl0OXQPJ+2J8GiaDLgd+pdm8FmqRQe2w\n7pNuxlFPLwKBgFwtkBXXzwy/nZ3FiOMipcB/DjCX8IXAXOzoWBVRmi2Dd+M6NDe0\nquZ17frrjIydO4uTgdKW68uLAHLpH1UDBZQmrzLHEg1djCQC25AREHYoekJl0x+6\nFd2hAwzhRUgWTshx4WYdEc7dJ+tJMG3wp4acoxiw1ne3QVzmk9Y55En7AoGAZn8x\nnOkDCRU5Tic7pJnjvxc1K818JBsGexeZUTx8XdaDu3ZCSNhNoM/+cDIWrpxcnLSu\nkM8MdDpjGHfWdyCHArLU1wWNvahAZqXUCgTTtUUEqraOgPn9WFKwjHlRjqYIZwfi\nuR8CLNHVHbABnFX/NiXar/hrFIbGFgbBF9GBl4ECgYB0IRkY6/prjveXi87m/xN9\n43Mn/5iStWWsZqIwWpURggtGFssFzR+jtmeXaeFuQMGn11S0+AWdsayeQZNOEcSU\n4FwyzMbtKTvpuDpY4S4vuLcz5KBIRE6wWbiWHfY0BvywYlZmZmFK9RAuRNQ5XMrD\neHtn9ClIUhUQFqwNkE3E6A==\n-----END PRIVATE KEY-----\n",
+  "client_email": "az-devops@ros-project-287920.iam.gserviceaccount.com",
+  "client_id": "118220613619021123175",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/az-devops%40ros-project-287920.iam.gserviceaccount.com"
+}
