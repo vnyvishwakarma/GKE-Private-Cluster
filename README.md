@@ -12,3 +12,8 @@ This repo is to Provision a GKE Private Cluster with end-to-end setup of all com
       * Adding Firewall rule to access jump host over SSH (with tag = ssh)
   - COMPUTE: 
       * Create jump host with ready-to-ssh.
+
+
+## Architecture Diagram
+
+![Architecture Diagram]gke.png
