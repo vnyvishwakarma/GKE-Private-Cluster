@@ -16,4 +16,4 @@ This repo is to Provision a GKE Private Cluster with end-to-end setup of all com
 
 ## Architecture Diagram
 
-![Architecture Diagram]gke.png
+![Architecture Diagram](gke.png)
